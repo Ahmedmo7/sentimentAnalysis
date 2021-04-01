@@ -1,5 +1,7 @@
 # Sentiment Analysis on Movie Reviews using the Flair NLP Sentiment Model
 
+Instructions for Setup here
+
 # License
 
 https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
